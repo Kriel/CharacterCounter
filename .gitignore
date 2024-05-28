@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+packages/
+~*
+*.DotSettings.user
+certificates/
+.DS_Store
+.env
